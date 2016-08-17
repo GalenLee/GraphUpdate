@@ -12,7 +12,7 @@ This solution demonstrates three ways to implement an Entity Framework Graph Upd
 
 The magic happens in the GraphUpdater class which has a surprisingly small amount of code.
 
-Look at the unit tests to see how to use.
+**Look at the unit tests to see how to use.**
 
 TODO:
 - Unit test exceptions
