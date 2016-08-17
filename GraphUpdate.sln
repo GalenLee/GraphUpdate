@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphUpdate", "GraphUpdate\GraphUpdate.csproj", "{B6A307AB-6CF0-42EE-BCE4-D13AB9DB0544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphUpdateTests", "GraphUpdateTests\GraphUpdateTests.csproj", "{A1D4F0B6-8B7D-4451-9EC8-90B23A4129C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphUpdateDataAccess", "GraphUpdateDataAccess\GraphUpdateDataAccess.csproj", "{04FC6035-3849-40EE-BA83-E57959501A08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{09F975BB-AF73-40A6-BA73-7E33BC83962F}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A307AB-6CF0-42EE-BCE4-D13AB9DB0544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A307AB-6CF0-42EE-BCE4-D13AB9DB0544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A307AB-6CF0-42EE-BCE4-D13AB9DB0544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A307AB-6CF0-42EE-BCE4-D13AB9DB0544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D4F0B6-8B7D-4451-9EC8-90B23A4129C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D4F0B6-8B7D-4451-9EC8-90B23A4129C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D4F0B6-8B7D-4451-9EC8-90B23A4129C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D4F0B6-8B7D-4451-9EC8-90B23A4129C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FC6035-3849-40EE-BA83-E57959501A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FC6035-3849-40EE-BA83-E57959501A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FC6035-3849-40EE-BA83-E57959501A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FC6035-3849-40EE-BA83-E57959501A08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
